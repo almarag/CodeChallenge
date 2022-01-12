@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d97657a-d99b-4f66-aec6-dcab652c06d8": {
+      "ProjectGuid": "9d97657a-d99b-4f66-aec6-dcab652c06d8",
+      "DisplayName": "LowerCaseOcurrences",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
