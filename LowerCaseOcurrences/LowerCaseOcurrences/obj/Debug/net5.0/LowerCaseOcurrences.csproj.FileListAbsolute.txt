@@ -1,0 +1,16 @@
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\bin\Debug\net5.0\LowerCaseOcurrences.exe
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\bin\Debug\net5.0\LowerCaseOcurrences.deps.json
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\bin\Debug\net5.0\LowerCaseOcurrences.runtimeconfig.json
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\bin\Debug\net5.0\LowerCaseOcurrences.runtimeconfig.dev.json
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\bin\Debug\net5.0\LowerCaseOcurrences.dll
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\bin\Debug\net5.0\ref\LowerCaseOcurrences.dll
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\bin\Debug\net5.0\LowerCaseOcurrences.pdb
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\obj\Debug\net5.0\LowerCaseOcurrences.csproj.AssemblyReference.cache
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\obj\Debug\net5.0\LowerCaseOcurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\obj\Debug\net5.0\LowerCaseOcurrences.AssemblyInfoInputs.cache
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\obj\Debug\net5.0\LowerCaseOcurrences.AssemblyInfo.cs
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\obj\Debug\net5.0\LowerCaseOcurrences.csproj.CoreCompileInputs.cache
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\obj\Debug\net5.0\LowerCaseOcurrences.dll
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\obj\Debug\net5.0\ref\LowerCaseOcurrences.dll
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\obj\Debug\net5.0\LowerCaseOcurrences.pdb
+C:\Projects\CodeChallenge\LowerCaseOcurrences\LowerCaseOcurrences\obj\Debug\net5.0\LowerCaseOcurrences.genruntimeconfig.cache
